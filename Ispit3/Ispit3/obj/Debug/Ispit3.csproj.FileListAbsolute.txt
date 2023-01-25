@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Ispit3\Ispit3\bin\Debug\Ispit3.exe.config
+C:\Users\ucenik\Documents\Ispit3\Ispit3\bin\Debug\Ispit3.exe
+C:\Users\ucenik\Documents\Ispit3\Ispit3\bin\Debug\Ispit3.pdb
+C:\Users\ucenik\Documents\Ispit3\Ispit3\obj\Debug\Ispit3.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Ispit3\Ispit3\obj\Debug\Ispit3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Ispit3\Ispit3\obj\Debug\Ispit3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Ispit3\Ispit3\obj\Debug\Ispit3.exe
+C:\Users\ucenik\Documents\Ispit3\Ispit3\obj\Debug\Ispit3.pdb
